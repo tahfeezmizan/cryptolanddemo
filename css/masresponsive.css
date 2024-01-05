@@ -1,0 +1,92 @@
+/* @media only screen and (min-width: 767px) {
+    .pink a{
+        padding: 10px 20px !important;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+  }
+   */
+
+/* @media only screen and (min-width:767px) {
+    .pink a{
+        padding: 10px 20px !important;
+    }
+    .first-head h1 {
+        font-size: 45px;
+    }
+ } */
+
+ 
+ /* // Small devices (landscape phones, 576px and up)
+ @media only screen and (min-width: 575px) { 
+    .pink a{
+        padding: 10px 20px !important;
+        background: palevioletred;
+    }
+    .first-head h1 {
+        font-size: 45px;
+    }
+  }
+  */
+
+  
+ /* // Medium devices (tablets, 768px and up) */
+ @media only screen and (min-width:767px) {
+    .pink a{
+        padding: 10px 20px !important;
+    }
+    .first-head h1 {
+        font-size: 45px;
+    }
+ }
+ 
+ /* // Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) {
+    .pink a{
+        /* padding: 10px 20px !important; */
+        background: green !important;
+    }
+    .first-head h1 {
+        font-size: 50px;
+    }
+ }
+ 
+ /* // X-Large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) {
+    .pink a{
+        padding: 10px 20px !important;
+        background: yellow !important;
+    }
+    .first-head h1 {
+        font-size: 60px;
+    }
+ }
+ 
+ /* // XX-Large devices (larger desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+    .pink a{
+        padding: 20px 40px !important;
+    }
+    .first-head h1 {
+        font-size: 70px;
+    }
+ }
+
+
+
+/* @media(max-width:575px){
+
+}
+
+@media(min-width:576px)and(max-width:767.98px){
+
+    
+    
+    /* @media only screen and (min-width:768px)and(max-width:981.98px){
+        
+        .pink a{
+            padding: 10px 20px !important;
+            
+        }
+    } 
+} */
